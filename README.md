@@ -1,6 +1,4 @@
-Claro, aquí tienes la versión en inglés de tu `README.md` mejorado:
 
-```markdown
 # PrecisionLock Loader 🚀
 
 ![PrecisionLock Banner]()
